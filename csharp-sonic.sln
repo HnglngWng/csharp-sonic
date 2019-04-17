@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSonic", "SimpleSonic\SimpleSonic.csproj", "{90DCDA04-A757-42B6-9640-DF61217FF7FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSonicTest", "SimpleSonicXTest\SimpleSonicTest.csproj", "{5E12825E-C545-4CDC-8250-2DFF37094298}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSonicTest", "SimpleSonicTest\SimpleSonicTest.csproj", "{5E12825E-C545-4CDC-8250-2DFF37094298}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
